@@ -54,10 +54,6 @@ HerCycle+ Connect addresses the challenge of fragmented women's health apps by o
 
 ---
 
-# 📸 Screenshots
-
-
-Explore the intuitive UI of HerCycle+ Connect:
 ## 📸 Screenshots
 
 Explore the intuitive UI of HerCycle+ Connect:
@@ -65,32 +61,20 @@ Explore the intuitive UI of HerCycle+ Connect:
 ### Logo
 | HerCycle+ Connect Logo |
 |:----------------------:|
-| <img src="./assets/logo.png" width="400" alt="HerCycle+ Connect Logo"> |
+| <img src="./assets/logo.png" width="300" alt="HerCycle+ Connect Logo"> |
 
 ### App Screens
-| Home Screen Top | Home Screen Bottom |
-|:---------------:|:------------------:|
-| <img src="./screenshots/Home_TOP.jpg" width="300" alt="Home Screen Top"> | <img src="./screenshots/Home_Bottom.jpg" width="300" alt="Home Screen Bottom"> |
+| Home Screen Top | Home Screen Bottom | Cycle Screen Top | Cycle Screen Bottom |
+|:---------------:|:------------------:|:----------------:|:-------------------:|
+| <img src="./screenshots/Home_TOP.jpg" width="200" alt="Home Screen Top"> | <img src="./screenshots/Home_Bottom.jpg" width="200" alt="Home Screen Bottom"> | <img src="./screenshots/Cycle_Top.jpg" width="200" alt="Cycle Screen Top"> | <img src="./screenshots/Cycle_Bottom.jpg" width="200" alt="Cycle Screen Bottom"> |
 
-| Cycle Screen Top | Cycle Screen Bottom |
-|:----------------:|:-------------------:|
-| <img src="./screenshots/Cycle_Top.jpg" width="300" alt="Cycle Screen Top"> | <img src="./screenshots/Cycle_Bottom.jpg" width="300" alt="Cycle Screen Bottom"> |
+| Wellness Screen Top | Wellness Screen Bottom | ChatBot Screen | Community Screen |
+|:-------------------:|:----------------------:|:--------------:|:----------------:|
+| <img src="./screenshots/wellness_timer.jpg" width="200" alt="Wellness Screen Top"> | <img src="./screenshots/Wellness_recomendation.jpg" width="200" alt="Wellness Screen Bottom"> | <img src="./screenshots/AI.jpg" width="200" alt="ChatBot Screen"> | <img src="./screenshots/Community.jpg" width="200" alt="Community Screen"> |
 
-| Wellness Screen Top | Wellness Screen Bottom |
-|:-------------------:|:----------------------:|
-| <img src="./screenshots/wellness_timer.jpg" width="300" alt="Wellness Screen Top"> | <img src="./screenshots/Wellness_recomendation.jpg" width="300" alt="Wellness Screen Bottom"> |
-
-| ChatBot Screen | Community Screen |
-|:--------------:|:----------------:|
-| <img src="./screenshots/AI.jpg" width="300" alt="ChatBot Screen"> | <img src="./screenshots/Community.jpg" width="300" alt="Community Screen"> |
-
-| Shop Screen | Shop Screen Bottom |
-|:-----------:|:------------------:|
-| <img src="./screenshots/Shop.jpg" width="300" alt="Shop Screen"> | <img src="./screenshots/Home_Bottom.jpg" width="300" alt="Shop Screen Bottom"> |
-
-| Profile Screen Top | Profile Screen Bottom |
-|:------------------:|:---------------------:|
-| <img src="./screenshots/profileTop.jpg" width="300" alt="Profile Screen Top"> | <img src="./screenshots/profile_Bottom.jpg" width="300" alt="Profile Screen Bottom"> |
+| Shop Screen | Shop Screen Bottom | Profile Screen Top | Profile Screen Bottom |
+|:-----------:|:------------------:|:------------------:|:---------------------:|
+| <img src="./screenshots/Shop.jpg" width="200" alt="Shop Screen"> | <img src="./screenshots/Home_Bottom.jpg" width="200" alt="Shop Screen Bottom"> | <img src="./screenshots/profileTop.jpg" width="200" alt="Profile Screen Top"> | <img src="./screenshots/profile_Bottom.jpg" width="200" alt="Profile Screen Bottom"> |
 ---
 
 # 🚀 Getting Started
