@@ -1,266 +1,230 @@
-HerCycle+ Connect
+# 🌸 HerCycle+ Connect
 
-HerCycle+ Connect is a unified women’s health companion app designed for women aged 15 to 45. It integrates cycle tracking, fertility insights, mental wellness, sexual health support, and expert teleconsultations into one intelligent, AI-powered platform. The app addresses the problem of fragmented care by offering a seamless, personalized health experience, empowering women to manage their physical, emotional, and reproductive wellbeing with confidence.
-Table of Contents
+HerCycle+ Connect is a revolutionary women’s health companion app designed for women aged 15–45. It seamlessly integrates cycle tracking, fertility insights, mental wellness, sexual health support, and expert teleconsultations into a single, AI-powered platform. 
 
-Introduction
-Features
-Screenshots
-Setup Instructions
-Technology Stack
-Development Challenges
-Future Enhancements
-Contributing
-Team
-Demo
-License
+Say goodbye to fragmented care—HerCycle+ Connect empowers women to take control of their physical, emotional, and reproductive wellbeing with confidence and ease.
 
-Introduction
-Despite the availability of period trackers, wellness apps, and forums, no single platform provides a holistic, integrated approach to women’s health. HerCycle+ Connect fills this gap by offering a unified ecosystem that combines:
+---
 
-Cycle & Fertility Tracking: AI-powered predictions for periods, ovulation, and symptoms, even for conditions like PCOS.
-Mental Wellness: Guided meditations, emotional journaling, and mental health support.
-Sexual Health: Anonymous Q&A with experts and safe community spaces.
-Personalized Insights: Nutrition, workouts, and sleep recommendations tailored to your menstrual cycle phase.
-Expert Access: Direct consultations with OB-GYNs, therapists, and nutritionists.
+# 📋 Table of Contents
 
-Our vision is to create a safe, supportive space where women feel heard, understood, and empowered to manage their health holistically.
-Features
-Core Features
+- [About the App](#-about-the-app)
+- [Key Features](#-key-features)
+- [Screenshots](#-screenshots)
+- [Getting Started](#-getting-started)
+- [Technology Stack](#-technology-stack)
+- [Development Challenges](#-development-challenges)
+- [Future Roadmap](#-future-roadmap)
+- [Contributing](#-contributing)
+- [Team](#-team)
+- [Demo](#-demo)
+- [License](#-license)
 
-AI-Powered Cycle & Fertility TrackerPredicts periods, ovulation, PMS intensity, and pain likelihood, with support for PCOS. Syncs with wearables like Fitbit and Oura Ring.
-Symptom-to-Solution NavigatorLog symptoms (cramps, bloating, mood swings) and receive tailored wellness tips (yoga, nutrition, hydration).
-Virtual Wellness RoomAccess 3–5 minute guided meditations, breathwork, journaling, and mental health resources.
-Cycle-Syncing Health HubPersonalized nutrition, workout, hydration, and sleep recommendations based on your cycle phase.
-Anonymous Expert Q&AAsk sensitive questions to verified OB-GYNs, therapists, and nutritionists, with chatbot support for instant answers.
-Community CirclesSafe, moderated spaces like “PCOS Warriors,” “First Period Support,” and “Fertility Friends” for sharing and support.
-SOS ModeEmergency alerts for severe period pain or emotional crises, notifying saved contacts or connecting to mental health resources.
+---
 
-Bonus Features
+# 🌟 About the App
 
-Red Alert AIPredicts upcoming cramps or hormonal shifts, reminding users to prepare (e.g., heat pads, hydration).
-Cycle-Linked Smart CalendarSuggests optimal days for workouts, socializing, rest, or focus based on hormone levels.
-Period Product MarketplacePersonalized recommendations and shopping for eco-friendly pads, cups, and tampons.
+HerCycle+ Connect addresses the challenge of fragmented women's health apps by offering a **unified, intelligent platform**. Unlike standalone period trackers or wellness tools, it provides a **holistic experience tailored to each user's health journey**.
 
-Screenshots
-Below are screenshots showcasing key features of HerCycle+ Connect:
+- **Purpose**: Empower women with personalized health insights and a supportive community.
+- **Target Audience**: Women aged 15–45 seeking comprehensive health management.
+- **Core Values**: Privacy, compassion, and empowerment.
 
+> _"A safe space where women feel heard, understood, and empowered to manage their body, mind, and wellbeing holistically."_
 
+---
 
+# ✅ Key Features
 
+## Core Features
 
+- **AI-Powered Cycle & Fertility Tracker**: Predicts periods, ovulation, PMS, and pain likelihood (including PCOS cases). Syncs with Fitbit and Oura Ring. 🗓️
+- **Symptom-to-Solution Navigator**: Log symptoms and receive tailored wellness suggestions. 💡
+- **Virtual Wellness Room**: Guided meditations, breathwork, and journaling for mental health. 🧘‍♀️
+- **Cycle-Syncing Health Hub**: Personalized nutrition, workout, and sleep plans based on your cycle. 🍗🏋️‍♀️
+- **Anonymous Expert Q&A**: Ask sensitive questions anonymously to experts (OB-GYNs, therapists, nutritionists). ❓
+- **Community Circles**: Join groups like "PCOS Warriors" and "Fertility Friends" for sharing and support. 👥
+- **SOS Mode**: Emergency alerts for severe pain or emotional crises. ⚠️
 
+## Bonus Features
 
+- **Red Alert AI**: Predicts cramps or hormonal shifts and suggests preparation steps. ⚠️
+- **Cycle-Linked Smart Calendar**: Suggests optimal days for different activities based on hormonal cycles. 🗓️
+- **Period Product Marketplace**: Shop eco-friendly products curated to your needs. 🛒
 
-App Logo
-Cycle Tracker Screen
+---
 
+## 📸 Screenshots
 
+Explore the intuitive UI of HerCycle+ Connect:
 
+### Logo
+| HerCycle+ Connect Logo |
+|:----------------------:|
+| <img src="./assets/logo.png" width="300" alt="HerCycle+ Connect Logo"> |
 
+### App Screens
+| Home Screen Top | Home Screen Bottom | Cycle Screen Top | Cycle Screen Bottom |
+|:---------------:|:------------------:|:----------------:|:-------------------:|
+| <img src="./screenshots/Home_TOP.jpg" width="200" alt="Home Screen Top"> | <img src="./screenshots/Home_Bottom.jpg" width="200" alt="Home Screen Bottom"> | <img src="./screenshots/Cycle_Top.jpg" width="200" alt="Cycle Screen Top"> | <img src="./screenshots/Cycle_Bottom.jpg" width="200" alt="Cycle Screen Bottom"> |
 
+| Wellness Screen Top | Wellness Screen Bottom | ChatBot Screen | Community Screen |
+|:-------------------:|:----------------------:|:--------------:|:----------------:|
+| <img src="./screenshots/wellness_timer.jpg" width="200" alt="Wellness Screen Top"> | <img src="./screenshots/Wellness_recomendation.jpg" width="200" alt="Wellness Screen Bottom"> | <img src="./screenshots/AI.jpg" width="200" alt="ChatBot Screen"> | <img src="./screenshots/Community.jpg" width="200" alt="Community Screen"> |
 
+| Shop Screen | Shop Screen Bottom | Profile Screen Top | Profile Screen Bottom |
+|:-----------:|:------------------:|:------------------:|:---------------------:|
+| <img src="./screenshots/Shop.jpg" width="200" alt="Shop Screen"> | <img src="./screenshots/Home_Bottom.jpg" width="200" alt="Shop Screen Bottom"> | <img src="./screenshots/profileTop.jpg" width="200" alt="Profile Screen Top"> | <img src="./screenshots/profile_Bottom.jpg" width="200" alt="Profile Screen Bottom"> |
+---
 
+# 🚀 Getting Started
 
+Follow these steps to set up and run HerCycle+ Connect locally:
 
+## Prerequisites
 
-Community Circle Screen
-Virtual Wellness Room Screen
+- **Flutter**: 3.0.0+ (Check with `flutter doctor`)
+- **Dart**: Included with Flutter
+- **Firebase Account**: For Authentication, Firestore, Cloud Messaging
+- **IDE**: VS Code or Android Studio
+- **Git**: For cloning
+- **Optional**: Fitbit/Oura Ring API keys
 
+## Installation Steps
 
-
-
-
-
-
-
-
-Feature Badge
-
-
-Note: Replace the placeholder screenshot paths (screenshots/cycle_tracker.png, etc.) with actual images after uploading them to your repository.
-Setup Instructions
-Follow these steps to set up and run HerCycle+ Connect locally.
-Prerequisites
-
-Flutter: Version 3.0.0 or higher (run flutter doctor to verify).
-Dart: Included with Flutter.
-Firebase Account: For authentication, Firestore, and Cloud Messaging.
-IDE: VS Code or Android Studio recommended.
-Git: For cloning the repository.
-Wearable APIs: Optional, for Fitbit/Oura Ring integration (API keys required).
-
-Steps
-
-Clone the Repository:
+```bash
 git clone https://github.com/Harshavardhanjakku/HerCycleConnect.git
 cd HerCycleConnect
-
-
-Install Dependencies:
 flutter pub get
+```
 
+### Configure Firebase
 
-Set Up Firebase:
+- Create a Firebase project at [Firebase Console](https://console.firebase.google.com/)
+- Add Android/iOS apps and download:
+  - `google-services.json` → `android/app/`
+  - `GoogleService-Info.plist` → `ios/Runner/`
+- Enable services:
+  - Authentication (Email/Password, Google Sign-In)
+  - Firestore
+  - Cloud Functions
+  - Cloud Messaging
 
-Create a Firebase project at console.firebase.google.com.
-Add an Android and/or iOS app to your Firebase project.
-Download the google-services.json (Android) or GoogleService-Info.plist (iOS) and place them in:
-Android: android/app/
-iOS: ios/Runner/
+### Set Up Assets
 
+- Place images inside the `images/` folder:
+  - `womens_health.jpg`
+  - `pocs.jpg`
+  - `mental_wellness.jpg`
+  - `nutrition_fitness.jpg`
 
-Enable Firebase Authentication (Email/Password, Google Sign-In).
-Set up Firestore Database and Cloud Functions.
-Configure Firebase Cloud Messaging for notifications.
+- Verify in `pubspec.yaml`:
 
-
-Configure Assets:
-
-Place the following image files in the images/ folder:
-womens_health.jpg
-pocs.jpg
-mental_wellness.jpg
-nutrition_fitness.jpg
-
-
-Verify the pubspec.yaml includes:flutter:
+```yaml
+flutter:
   assets:
     - images/womens_health.jpg
     - images/pocs.jpg
     - images/mental_wellness.jpg
     - images/nutrition_fitness.jpg
+```
+
+### Run the App
+
+- **Windows**:
+
+```bash
+flutter run -d windows
+```
+
+- **Android/iOS**:
+
+```bash
+flutter run -d emulator
+```
+
+---
+
+# 🛠️ Technology Stack
+
+- **Frontend**: Flutter (Dart)
+- **Backend**: Firebase (Authentication, Firestore, Functions, Messaging)
+- **Wearable Integration**: Fitbit API, Oura Ring API
+- **AI/NLP**: Custom Cloud Functions
+- **Key Packages**:
+  - `firebase_auth`
+  - `cloud_firestore`
+  - `firebase_messaging`
+  - `workmanager`
+
+---
+
+# 🧺 Development Challenges
+
+| Challenge                  | Solution                                    |
+|-----------------------------|---------------------------------------------|
+| Battery Efficiency         | Used `WorkManager` for selective sync      |
+| API Integration             | Centralized API handler                    |
+| Emotionally Sensitive UX   | Cycle-aware, color-dynamic UI               |
+| Chatbot Accuracy            | NLU filters + fallback to human experts    |
+
+---
+
+# 🌍 Future Roadmap
+
+- **Advanced AI**: Smarter cycle prediction and condition detection (e.g., PCOS, Endometriosis).
+- **Wearable Expansion**: Support for Apple Watch, Garmin, and others.
+- **Telehealth**: Video consultations, prescription delivery.
+- **Globalization**: Multilingual support (Spanish, Hindi, French).
+- **Community**: AI-driven recommendations for circles and moderation.
+- **Mental Health**: Emotional AI journal and guided tracks.
+- **Security**: HIPAA-compliant encryption and scalable backend architecture.
+
+---
+
+# 🤝 Contributing
+
+We welcome contributions! 🌟
+
+1. Fork the repository.
+2. Create your feature branch: 
+
+```bash
+git checkout -b feature/YourFeature
+```
+
+3. Commit your changes:
+
+```bash
+git commit -m "Add YourFeature"
+```
+
+4. Push to the branch:
+
+```bash
+git push origin feature/YourFeature
+```
+
+5. Open a pull request.
+
+See `CONTRIBUTING.md` for more details.
+
+---
+
+# 👥 Team
+
+| Name | Email | GitHub Profile |
+|:-----|:------|:---------------|
+| Macharla Rohith | macharlarohith111@gmail.com | [RohithMacharla11](https://github.com/RohithMacharla11) |
+| Vangala Shiva Chaithanya | vangalashivachaithanya@gmail.com | [Shiva-vangala](https://github.com/Shiva-vangala) |
+| Jakku Harshavardhan | jakkuharshavardhan2004@gmail.com | [Harshavardhanjakku](https://github.com/Harshavardhanjakku) |
+| Mulagundla Srinitha | mulagundlasrinitha@gmail.com | [MulagundlaSrinitha](https://github.com/MulagundlaSrinitha) |
 
 
-If images are in assets/images/, update paths in pubspec.yaml and code files (community_screen.dart, community_detail_screen.dart) accordingly.
+# 📜 License
 
+This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
-Move Project (Optional):
+---
 
-If the project is in a OneDrive folder, move it to a non-synced directory to avoid build issues:move "C:\Users\Rohith Macharla\OneDrive\Desktop\Project\HerCycleConnect" "C:\Users\Rohith Macharla\Desktop\HerCycleConnect"
-
-
-
-
-Run the App:
-
-For Windows:flutter run -d windows
-
-
-For Android/iOS emulator:flutter run -d emulator
-
-
-
-
-
-Troubleshooting
-
-Asset Error: If you see No file or variants found for asset: images/womens_health.jpg:
-Confirm the images exist in images/.
-Check pubspec.yaml for correct paths and indentation.
-Run flutter clean and flutter pub get.
-
-
-NuGet/MSBuild Errors:
-Install NuGet: Download from nuget.org and add to PATH.
-Verify Visual Studio Build Tools 2019+ with C++ Desktop Development workload.
-
-
-Firebase Issues:
-Ensure google-services.json/GoogleService-Info.plist is correctly placed.
-Check Firebase console for enabled services.
-
-
-
-Technology Stack
-
-Frontend: Flutter (Dart) for cross-platform UI/UX.
-Backend: Firebase (Authentication, Firestore, Cloud Functions, Cloud Messaging).
-Wearable Integration: Fitbit and Oura Ring APIs for health metrics.
-AI/NLP: Custom Cloud Functions for cycle predictions and chatbot.
-Packages:
-firebase_auth
-cloud_firestore
-firebase_messaging
-workmanager (for background sync)
-Others for UI and API handling.
-
-
-
-Development Challenges
-
-Battery Efficiency:
-Problem: Real-time sync drained battery.
-Solution: Used WorkManager for selective background sync and optimized Firebase listeners.
-
-
-API Integration:
-Problem: Complex authentication for Fitbit/Oura Ring APIs.
-Solution: Centralized API handler to standardize calls and error handling.
-
-
-Emotionally Sensitive UX:
-Problem: Creating a non-clinical, welcoming UI.
-Solution: Cycle-aware UI with dynamic colors and beta testing for feedback.
-
-
-Chatbot Accuracy:
-Problem: Handling vague or off-topic questions.
-Solution: NLU filters and fallback to human experts.
-
-
-
-Future Enhancements
-
-Advanced AI: Smarter recommendations and early detection of conditions like PCOS.
-Wearable Expansion: Support for Apple Watch, Garmin, etc.
-Telehealth: Video consultations and prescription delivery.
-Globalization: Multilingual support (Spanish, Hindi, French).
-Community: AI-driven circle recommendations and moderator tools.
-Mental Health: Emotional AI journal and specialized tracks (grief, burnout).
-Security: HIPAA-compliant encryption and scalable serverless backend.
-
-Contributing
-We welcome contributions! To contribute:
-
-Fork the repository.
-Create a feature branch (git checkout -b feature/YourFeature).
-Commit changes (git commit -m "Add YourFeature").
-Push to the branch (git push origin feature/YourFeature).
-Open a Pull Request.
-
-Please follow our Code of Conduct and report issues via Issues.
-Team
-
-
-
-Name
-Email
-GitHub Profile
-
-
-
-Vangala Shiva Chaithanya
-vangalashivachaithanya@gmail.com
-Shiva-vangala
-
-
-Macharla Rohith
-macharlarohith111@gmail.com
-RohithMacharla11
-
-
-Jakku Harshavardhan
-jakkuharshavardhan2004@gmail.com
-Harshavardhanjakku
-
-
-Mulagundla Srinitha
-mulagundlasrinitha@gmail.com
-MulagundlaSrinitha
-
-
-Demo
-Watch a short demo of HerCycle+ Connect:Demo Video
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+# 🌟 Empowering women, one cycle at a time. 🌟
