@@ -56,7 +56,32 @@ HerCycle+ Connect addresses the challenge of fragmented women's health apps by o
 
 # 📸 Screenshots
 
-> _Coming soon_
+
+Explore the intuitive UI of HerCycle+ Connect:
+
+| Logo |
+|:-------------:|
+| ![Cycle Tracker](./assets/logo.png)|
+
+| Cycle Screen Top| Bottom |
+|:-------------:|:----------------:|
+| ![Cycle Tracker](./screenshots/Cycle_TOP.jpg) | ![Community Circle](./screenshots/Cycle_Bottom.jpg) |
+
+| Wellness Screen Top| Bottom |
+|:-------------:|:----------------:|
+| ![Cycle Tracker](./screenshots/wellness_timer.jpg) | ![Community Circle](./screenshots/Wellness_recomendation.jpg) |
+
+| ChatBot | COmmunity |
+|:-------------:|:----------------:|
+| ![Cycle Tracker](./screenshots/AI.jpg) | ![Community Circle](./screenshots/Community.jpg) |
+
+| Shop | Bottom |
+|:-------------:|:----------------:|
+| ![Cycle Tracker](./screenshots/Shop.jpg) | ![Community Circle](./screenshots/Home_Bottom.jpg) |
+
+| Profile | Bottom |
+|:-------------:|:----------------:|
+| ![Cycle Tracker](./screenshots/profileTop.jpg) | ![Community Circle](./screenshots/profile_Bottom.jpg) |
 
 ---
 
@@ -203,13 +228,6 @@ See `CONTRIBUTING.md` for more details.
 | Jakku Harshavardhan | jakkuharshavardhan2004@gmail.com | [Harshavardhanjakku](https://github.com/Harshavardhanjakku) |
 | Mulagundla Srinitha | mulagundlasrinitha@gmail.com | [MulagundlaSrinitha](https://github.com/MulagundlaSrinitha) |
 
----
-
-# 🎥 Demo
-
-> **Coming Soon**: Watch a quick demo showcasing HerCycle+ Connect’s powerful features! 🎥
-
----
 
 # 📜 License
 
