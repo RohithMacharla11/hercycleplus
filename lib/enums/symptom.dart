@@ -1,0 +1,1 @@
+enum Symptom { cramps, headache, bloating, fatigue, acne, backPain, breastTenderness, nausea }
